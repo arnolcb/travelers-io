@@ -1,0 +1,12 @@
+C:\Users\arnol\RiderProjects\WebAppPC2\WebAppPC2.Infrastructure\obj\Debug\net7.0\WebAppPC2.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\arnol\RiderProjects\WebAppPC2\WebAppPC2.Infrastructure\obj\Debug\net7.0\WebAppPC2.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnol\RiderProjects\WebAppPC2\WebAppPC2.Infrastructure\obj\Debug\net7.0\WebAppPC2.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\arnol\RiderProjects\WebAppPC2\WebAppPC2.Infrastructure\obj\Debug\net7.0\WebAppPC2.Infrastructure.AssemblyInfo.cs
+C:\Users\arnol\RiderProjects\WebAppPC2\WebAppPC2.Infrastructure\obj\Debug\net7.0\WebAppPC2.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\arnol\RiderProjects\WebAppPC2\WebAppPC2.Infrastructure\bin\Debug\net7.0\WebAppPC2.Infrastructure.deps.json
+C:\Users\arnol\RiderProjects\WebAppPC2\WebAppPC2.Infrastructure\bin\Debug\net7.0\WebAppPC2.Infrastructure.dll
+C:\Users\arnol\RiderProjects\WebAppPC2\WebAppPC2.Infrastructure\bin\Debug\net7.0\WebAppPC2.Infrastructure.pdb
+C:\Users\arnol\RiderProjects\WebAppPC2\WebAppPC2.Infrastructure\obj\Debug\net7.0\WebAppPC2.Infrastructure.dll
+C:\Users\arnol\RiderProjects\WebAppPC2\WebAppPC2.Infrastructure\obj\Debug\net7.0\refint\WebAppPC2.Infrastructure.dll
+C:\Users\arnol\RiderProjects\WebAppPC2\WebAppPC2.Infrastructure\obj\Debug\net7.0\WebAppPC2.Infrastructure.pdb
+C:\Users\arnol\RiderProjects\WebAppPC2\WebAppPC2.Infrastructure\obj\Debug\net7.0\ref\WebAppPC2.Infrastructure.dll

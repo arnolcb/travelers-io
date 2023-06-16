@@ -1,0 +1,15 @@
+C:\Users\arnol\RiderProjects\WebAppPC2\WebAppPC2.Domain\bin\Debug\net7.0\WebAppPC2.Domain.deps.json
+C:\Users\arnol\RiderProjects\WebAppPC2\WebAppPC2.Domain\bin\Debug\net7.0\WebAppPC2.Domain.dll
+C:\Users\arnol\RiderProjects\WebAppPC2\WebAppPC2.Domain\bin\Debug\net7.0\WebAppPC2.Domain.pdb
+C:\Users\arnol\RiderProjects\WebAppPC2\WebAppPC2.Domain\bin\Debug\net7.0\WebAppPC2.Infrastructure.dll
+C:\Users\arnol\RiderProjects\WebAppPC2\WebAppPC2.Domain\bin\Debug\net7.0\WebAppPC2.Infrastructure.pdb
+C:\Users\arnol\RiderProjects\WebAppPC2\WebAppPC2.Domain\obj\Debug\net7.0\WebAppPC2.Domain.csproj.AssemblyReference.cache
+C:\Users\arnol\RiderProjects\WebAppPC2\WebAppPC2.Domain\obj\Debug\net7.0\WebAppPC2.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnol\RiderProjects\WebAppPC2\WebAppPC2.Domain\obj\Debug\net7.0\WebAppPC2.Domain.AssemblyInfoInputs.cache
+C:\Users\arnol\RiderProjects\WebAppPC2\WebAppPC2.Domain\obj\Debug\net7.0\WebAppPC2.Domain.AssemblyInfo.cs
+C:\Users\arnol\RiderProjects\WebAppPC2\WebAppPC2.Domain\obj\Debug\net7.0\WebAppPC2.Domain.csproj.CoreCompileInputs.cache
+C:\Users\arnol\RiderProjects\WebAppPC2\WebAppPC2.Domain\obj\Debug\net7.0\WebAppPC2.Domain.csproj.CopyComplete
+C:\Users\arnol\RiderProjects\WebAppPC2\WebAppPC2.Domain\obj\Debug\net7.0\WebAppPC2.Domain.dll
+C:\Users\arnol\RiderProjects\WebAppPC2\WebAppPC2.Domain\obj\Debug\net7.0\refint\WebAppPC2.Domain.dll
+C:\Users\arnol\RiderProjects\WebAppPC2\WebAppPC2.Domain\obj\Debug\net7.0\WebAppPC2.Domain.pdb
+C:\Users\arnol\RiderProjects\WebAppPC2\WebAppPC2.Domain\obj\Debug\net7.0\ref\WebAppPC2.Domain.dll
